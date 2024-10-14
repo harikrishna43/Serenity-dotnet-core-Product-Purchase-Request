@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/ProductPurchaseApp/ProductPurchaseApp.Web/App_Data/upload/temporary
